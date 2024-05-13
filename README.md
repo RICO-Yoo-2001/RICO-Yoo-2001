@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kamesh Chandima</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋;+I'm+Kamesh+Chandima!😎;" />
+</h1>
+
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rico-yoo-2001&label=Profile%20views&color=0e75b6&style=flat" alt="rico-yoo-2001" /> </p>
